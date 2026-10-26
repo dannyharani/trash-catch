@@ -1,0 +1,9 @@
+build/
+compile_commands.json
+.cache/
+CMakeFiles/
+test_output.txt
+*.exe
+*.o
+*.obj
+*.a
